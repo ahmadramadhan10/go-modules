@@ -1,4 +1,4 @@
-package golang_module
+package gomodules
 
 func SayHello() string {
 	return "Hello"
